@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-04T09:04:33Z" name="Default suite" finished-at="2024-10-04T09:04:38Z" duration-ms="4737">
+    <groups>
+    </groups>
+    <test started-at="2024-10-04T09:04:33Z" name="Default test" finished-at="2024-10-04T09:04:38Z" duration-ms="4737">
+      <class name="swaglabs.LoginTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:swaglabs.LoginTest@21337f7b]" started-at="2024-10-04T09:04:33Z" name="SetUp" finished-at="2024-10-04T09:04:37Z" duration-ms="3839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LoginSuccessTest()[pri:0, instance:swaglabs.LoginTest@21337f7b]" started-at="2024-10-04T09:04:37Z" name="LoginSuccessTest" finished-at="2024-10-04T09:04:38Z" duration-ms="854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSuccessTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:swaglabs.LoginTest@21337f7b]" started-at="2024-10-04T09:04:38Z" name="TearDown" finished-at="2024-10-04T09:04:38Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- swaglabs.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
